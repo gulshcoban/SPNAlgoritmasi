@@ -1,0 +1,33 @@
+C:\Users\Hüseyin\Desktop\SPN Algoritması\SPN Algoritması\bin\Debug\SPN Algoritması.exe.config
+C:\Users\Hüseyin\Desktop\SPN Algoritması\SPN Algoritması\bin\Debug\SPN Algoritması.exe
+C:\Users\Hüseyin\Desktop\SPN Algoritması\SPN Algoritması\bin\Debug\SPN Algoritması.pdb
+C:\Users\Hüseyin\Desktop\SPN Algoritması\SPN Algoritması\obj\Debug\SPN_Algoritması.frmMenu.resources
+C:\Users\Hüseyin\Desktop\SPN Algoritması\SPN Algoritması\obj\Debug\SPN_Algoritması.frmMetinSifrele.resources
+C:\Users\Hüseyin\Desktop\SPN Algoritması\SPN Algoritması\obj\Debug\SPN_Algoritması.Properties.Resources.resources
+C:\Users\Hüseyin\Desktop\SPN Algoritması\SPN Algoritması\obj\Debug\SPN Algoritması.csproj.GenerateResource.Cache
+C:\Users\Hüseyin\Desktop\SPN Algoritması\SPN Algoritması\obj\Debug\SPN Algoritması.exe
+C:\Users\Hüseyin\Desktop\SPN Algoritması\SPN Algoritması\obj\Debug\SPN Algoritması.pdb
+C:\Users\Hüseyin\Desktop\SPN Algoritması\SPN Algoritması\obj\Debug\SPN Algoritması.csprojResolveAssemblyReference.cache
+C:\Users\Hüseyin\Desktop\SPN Algoritması\SPN Algoritması\obj\Debug\SPN_Algoritması.frmMetinCöz.resources
+C:\Users\Hüseyin\Desktop\CBU SOFTWARE ENGİNEERİNG - 3.CLASS\Software Testing\PROJELER\SPN Algoritması(Ödev 3)\SPN Algoritması\bin\Debug\SPN Algoritması.exe.config
+C:\Users\Hüseyin\Desktop\CBU SOFTWARE ENGİNEERİNG - 3.CLASS\Software Testing\PROJELER\SPN Algoritması(Ödev 3)\SPN Algoritması\obj\Debug\SPN Algoritması.exe
+C:\Users\Hüseyin\Desktop\CBU SOFTWARE ENGİNEERİNG - 3.CLASS\Software Testing\PROJELER\SPN Algoritması(Ödev 3)\SPN Algoritması\obj\Debug\SPN Algoritması.pdb
+C:\Users\Hüseyin\Desktop\CBU SOFTWARE ENGİNEERİNG - 3.CLASS\Software Testing\PROJELER\SPN Algoritması(Ödev 3)\SPN Algoritması\bin\Debug\SPN Algoritması.exe
+C:\Users\Hüseyin\Desktop\CBU SOFTWARE ENGİNEERİNG - 3.CLASS\Software Testing\PROJELER\SPN Algoritması(Ödev 3)\SPN Algoritması\bin\Debug\SPN Algoritması.pdb
+C:\Users\Hüseyin\Desktop\CBU SOFTWARE ENGİNEERİNG - 3.CLASS\Software Testing\PROJELER\SPN Algoritması(Ödev 3)\SPN Algoritması\obj\Debug\SPN Algoritması.csprojResolveAssemblyReference.cache
+C:\Users\Hüseyin\Desktop\CBU SOFTWARE ENGİNEERİNG - 3.CLASS\Software Testing\PROJELER\SPN Algoritması(Ödev 3)\SPN Algoritması\obj\Debug\SPN_Algoritması.frmMetinCöz.resources
+C:\Users\Hüseyin\Desktop\CBU SOFTWARE ENGİNEERİNG - 3.CLASS\Software Testing\PROJELER\SPN Algoritması(Ödev 3)\SPN Algoritması\obj\Debug\SPN_Algoritması.frmMenu.resources
+C:\Users\Hüseyin\Desktop\CBU SOFTWARE ENGİNEERİNG - 3.CLASS\Software Testing\PROJELER\SPN Algoritması(Ödev 3)\SPN Algoritması\obj\Debug\SPN_Algoritması.frmMetinSifrele.resources
+C:\Users\Hüseyin\Desktop\CBU SOFTWARE ENGİNEERİNG - 3.CLASS\Software Testing\PROJELER\SPN Algoritması(Ödev 3)\SPN Algoritması\obj\Debug\SPN_Algoritması.Properties.Resources.resources
+C:\Users\Hüseyin\Desktop\CBU SOFTWARE ENGİNEERİNG - 3.CLASS\Software Testing\PROJELER\SPN Algoritması(Ödev 3)\SPN Algoritması\obj\Debug\SPN Algoritması.csproj.GenerateResource.Cache
+C:\Users\Hüseyin\Desktop\CBU SOFTWARE ENGİNEERİNG - 3.CLASS\Software Testing\PROJELER\SPN Algoritması(Ödev 3)\SPN Algoritması\SPN Algoritması\bin\Debug\SPN Algoritması.exe.config
+C:\Users\Hüseyin\Desktop\CBU SOFTWARE ENGİNEERİNG - 3.CLASS\Software Testing\PROJELER\SPN Algoritması(Ödev 3)\SPN Algoritması\SPN Algoritması\obj\Debug\SPN Algoritması.exe
+C:\Users\Hüseyin\Desktop\CBU SOFTWARE ENGİNEERİNG - 3.CLASS\Software Testing\PROJELER\SPN Algoritması(Ödev 3)\SPN Algoritması\SPN Algoritması\obj\Debug\SPN Algoritması.pdb
+C:\Users\Hüseyin\Desktop\CBU SOFTWARE ENGİNEERİNG - 3.CLASS\Software Testing\PROJELER\SPN Algoritması(Ödev 3)\SPN Algoritması\SPN Algoritması\bin\Debug\SPN Algoritması.exe
+C:\Users\Hüseyin\Desktop\CBU SOFTWARE ENGİNEERİNG - 3.CLASS\Software Testing\PROJELER\SPN Algoritması(Ödev 3)\SPN Algoritması\SPN Algoritması\bin\Debug\SPN Algoritması.pdb
+C:\Users\Hüseyin\Desktop\CBU SOFTWARE ENGİNEERİNG - 3.CLASS\Software Testing\PROJELER\SPN Algoritması(Ödev 3)\SPN Algoritması\SPN Algoritması\obj\Debug\SPN Algoritması.csprojResolveAssemblyReference.cache
+C:\Users\Hüseyin\Desktop\CBU SOFTWARE ENGİNEERİNG - 3.CLASS\Software Testing\PROJELER\SPN Algoritması(Ödev 3)\SPN Algoritması\SPN Algoritması\obj\Debug\SPN_Algoritması.frmMetinCöz.resources
+C:\Users\Hüseyin\Desktop\CBU SOFTWARE ENGİNEERİNG - 3.CLASS\Software Testing\PROJELER\SPN Algoritması(Ödev 3)\SPN Algoritması\SPN Algoritması\obj\Debug\SPN_Algoritması.frmMenu.resources
+C:\Users\Hüseyin\Desktop\CBU SOFTWARE ENGİNEERİNG - 3.CLASS\Software Testing\PROJELER\SPN Algoritması(Ödev 3)\SPN Algoritması\SPN Algoritması\obj\Debug\SPN_Algoritması.frmMetinSifrele.resources
+C:\Users\Hüseyin\Desktop\CBU SOFTWARE ENGİNEERİNG - 3.CLASS\Software Testing\PROJELER\SPN Algoritması(Ödev 3)\SPN Algoritması\SPN Algoritması\obj\Debug\SPN_Algoritması.Properties.Resources.resources
+C:\Users\Hüseyin\Desktop\CBU SOFTWARE ENGİNEERİNG - 3.CLASS\Software Testing\PROJELER\SPN Algoritması(Ödev 3)\SPN Algoritması\SPN Algoritması\obj\Debug\SPN Algoritması.csproj.GenerateResource.Cache
